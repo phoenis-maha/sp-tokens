@@ -24,7 +24,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```golang
-import openapi "github.com/phonis-maha/sp-tokens"
+import openapi "github.com/phoenis-maha/sp-tokens"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:

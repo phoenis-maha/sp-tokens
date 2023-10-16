@@ -25,7 +25,7 @@ import (
     "context"
     "fmt"
     "os"
-    openapiclient "github.com/phonis-maha/sp-tokens"
+    openapiclient "github.com/phoenis-maha/sp-tokens"
 )
 
 func main() {
